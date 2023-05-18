@@ -1,0 +1,28 @@
+.container{
+    margin: 80px 100px;
+   
+    background-color: whitesmoke;
+    border: 1px solid;
+    padding: 1px;
+    box-shadow: px 10px #ebafaf;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.forms{
+    display: flex;
+    justify-content: space-around;
+    margin: 300px 30%;
+}
+.status{
+    width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+#num{
+    width: 20px;
+}

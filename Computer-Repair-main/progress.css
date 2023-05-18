@@ -1,0 +1,18 @@
+.container{
+    margin: 80px 100px;
+   
+    background-color: whitesmoke;
+    border: 1px solid;
+    padding: 1px;
+    box-shadow: px 10px #ebafaf;
+    display: flex;
+    justify-content: space-around;
+   
+
+    
+}
+.forms{
+    display: flex;
+    justify-content: space-around;
+    margin: 300px 30%;
+}
